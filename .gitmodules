@@ -1,0 +1,3 @@
+[submodule "DAT250-Publish-subscribe"]
+	path = DAT250-Publish-subscribe
+	url = https://github.com/Torbenhjl/DAT250-Publish-subscribe.git
